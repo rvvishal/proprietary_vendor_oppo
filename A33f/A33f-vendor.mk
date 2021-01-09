@@ -439,7 +439,7 @@ PRODUCT_COPY_FILES += \
     vendor/oppo/A33f/proprietary/vendor/lib/soundfx/libqcreverb.so:vendor/lib/soundfx/libqcreverb.so \
     vendor/oppo/A33f/proprietary/vendor/lib/soundfx/libqcvirt.so:vendor/lib/soundfx/libqcvirt.so
 
-PRODUCT_PACKAGES += \n
+PRODUCT_PACKAGES += \
     imscmlibrary \
     libloc_api_v02 \
     libloc_ds_api \
